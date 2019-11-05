@@ -1,4 +1,10 @@
 ---
 label: Cameron Farquharson
 hide_body: true
-fields: []
+fields:
+- name: test
+  type: file
+  config:
+    maxSize: 250
+  label: test
+  description: yo
